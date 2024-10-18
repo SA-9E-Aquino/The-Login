@@ -1,0 +1,16 @@
+body {
+	background-color: lightsteelblue;
+}
+h1 {
+	color: darkred;
+}
+
+}
+.container {
+	background-color: ghostwhite;
+	width: 30%;
+	margin: auto;
+	border: 5px solid;
+	border-color: black;
+	padding: 100px;
+}
